@@ -1,11 +1,11 @@
 # Site settings
 title: PRML
 
-email: "swear013@gmail.com"
-url: "http://norman3.github.io"
-github_url: "http://github.com/norman3/prml"
+email: "imagineer1981@gmail.com"
+url: "http://cwh1981.github.io"
+github_url: "https://github.com/cwh1981/mathematicalmonk"
 github_editurl: "/blob/gh-pages"
-github_profile: "http://github.com/norman3"
+github_profile: "http://github.com/cwh1981"
 baseurl: "/prml"
 disqus_shortname: norman3github
 
