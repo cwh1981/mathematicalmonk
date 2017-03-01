@@ -1,10 +1,10 @@
-## PRML Study (Korean Ver.)
+## Mathematical Monk ML Study (Korean Ver.)
 
-- Summary for PRML Book. ([Link](http://research.microsoft.com/en-us/um/people/cmbishop/prml/))
+- Summary for Mathematical Monk ML. ([Link]())
 
 ## Link
 
-- [http://norman3.github.io/prml](http://norman3.github.io/prml)
+- [https://github.com/cwh1981/mathematicalmonk](https://github.com/cwh1981/mathematicalmonk)
 
 
 
